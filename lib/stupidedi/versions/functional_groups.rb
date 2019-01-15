@@ -10,6 +10,7 @@ module Stupidedi
       autoload :ThirtyFifty, 	"stupidedi/versions/functional_groups/003050"
       autoload :FortyTen, 		"stupidedi/versions/functional_groups/004010"
       autoload :FiftyTen, 		"stupidedi/versions/functional_groups/005010"
+      autoload :FiftyTenXTwoEighteen,     "stupidedi/versions/functional_groups/005010X218"
     end
   end
 end

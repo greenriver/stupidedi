@@ -7,5 +7,6 @@ module Stupidedi
     autoload :ThirtyTen,  		"stupidedi/contrib/003010"
     autoload :ThirtyForty,  	"stupidedi/contrib/003040"
     autoload :ThirtyFifty,  	"stupidedi/contrib/003050"
+    autoload :FiftyTenXTwoEighteen,    "stupidedi/contrib/005010X218"
   end
 end

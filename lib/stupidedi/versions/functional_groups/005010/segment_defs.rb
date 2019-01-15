@@ -13,6 +13,9 @@ module Stupidedi
           autoload :ACT,
             "stupidedi/versions/functional_groups/005010/segment_defs/ACT"
 
+          autoload :ADX,
+            "stupidedi/versions/functional_groups/005010/segment_defs/ADX"
+
           autoload :AK1,
             "stupidedi/versions/functional_groups/005010/segment_defs/AK1"
 
@@ -100,8 +103,8 @@ module Stupidedi
           autoload :EQ,
             "stupidedi/versions/functional_groups/005010/segment_defs/EQ"
 
-#          autoload :ENT,
-#            "stupidedi/versions/functional_groups/005010/segment_defs/ENT"
+         autoload :ENT,
+           "stupidedi/versions/functional_groups/005010/segment_defs/ENT"
 
           autoload :FRM,
             "stupidedi/versions/functional_groups/005010/segment_defs/FRM"
@@ -240,6 +243,9 @@ module Stupidedi
 
           autoload :REF,
             "stupidedi/versions/functional_groups/005010/segment_defs/REF"
+
+          autoload :RMR,
+            "stupidedi/versions/functional_groups/005010/segment_defs/RMR"
 
           autoload :SBR,
             "stupidedi/versions/functional_groups/005010/segment_defs/SBR"
